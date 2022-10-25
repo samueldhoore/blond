@@ -188,13 +188,14 @@
 
         #socials img {
             width: 20%;
+            height: auto;
+            max-height: 50vh;
         
         }
         
         #socials div {
             justify-content: space-around;
             display: flex;
-            display: none;
         }
 
         #facebook, #spotify, #instagram{
