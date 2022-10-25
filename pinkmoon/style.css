@@ -170,8 +170,17 @@
         }
 
     /********************************************************/
-    /* concerts m */
+    /* socials m */
     /********************************************************/
+        #socials img {
+            width: 20%;
+        
+        }
+        
+        #socials div {
+            justify-content: space-around;
+            display: flex;
+        }
     
 }
 
