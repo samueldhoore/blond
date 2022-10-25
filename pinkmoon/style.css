@@ -98,11 +98,11 @@
     /* photo m */
     /********************************************************/
 
-        #heads, #nekka {
+        #heads, #nekka, #food {
             margin:0;
         }
 
-        #heads img, #nekka img {
+        #heads img, #nekka img, #food img {
             width: 100%;
         }
 
