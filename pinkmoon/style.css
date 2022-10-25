@@ -1,14 +1,19 @@
 @media only screen and (max-width:769px){
 /* MOBILE VERSION */
 /********************************************************/
-    /* Hamburger */
+    /* General m */
     /********************************************************/
+    
+    html {
+        scroll-padding-top: 40px; /* sticky nav won't hide stuff */
+    }
+
     body {
         margin: 0;
     }
     
     /********************************************************/
-    /* Hamburger */
+    /* Hamburger m */
     /********************************************************/
 
     .topnav {
