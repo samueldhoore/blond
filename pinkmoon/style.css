@@ -30,7 +30,7 @@
 
         .topnav {
             overflow: hidden;
-            background-color: pink;
+            background-color: #0497f6;
             position: relative;
         }
 
@@ -59,13 +59,8 @@
         }
 
         .topnav a:hover {
-            background-color: black;
-            color: pink;
-        }
-
-        .topnav .active {
-            background-color: pink;
-            color: black;
+            background-color: white;
+            color: #3f12ae;
         }
 
         .topnav .active {
@@ -81,6 +76,7 @@
         .topnav a.active:hover {
             color: transparent;
         }
+
 
     /********************************************************/
     /* articles m */
