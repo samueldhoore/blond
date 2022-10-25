@@ -47,6 +47,19 @@
         color: black;
     }
 
+    .topnav .active {
+        background-image: url(https://dl.dropbox.com/s/sv293wg83qa5adx/blond_logo.png?dl=1);
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-color: black;
+        background-position-x: 2rem;
+        color: transparent;
+    }
+    
+    .topnav a.active:hover {
+        color: transparent;
+    }
+
 }
 
 @media only screen and (min-width:769px){
