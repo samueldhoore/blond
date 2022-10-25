@@ -87,10 +87,6 @@
         #bioshort{
             text-align: right;
         }
-
-        #heads img {
-            width: 100%;
-        }
         
         #biolong #knack  {
             text-align: center
@@ -98,6 +94,10 @@
 
         #heads {
             margin:0;
+        }
+
+        #heads img {
+            width: 100%;
         }
 
     /********************************************************/
