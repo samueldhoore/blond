@@ -60,11 +60,12 @@
 
     .topnav .active {
         background-image: url(https://dl.dropbox.com/s/sv293wg83qa5adx/blond_logo.png?dl=1);
-        background-size: contain;
+        background-size: 13rem;
         background-repeat: no-repeat;
         background-color: black;
-        background-position-x: 2rem;
+        background-position: center;
         color: transparent;
+        background-position-x: 2rem;
     }
     
     .topnav a.active:hover {
