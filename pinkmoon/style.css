@@ -183,6 +183,18 @@
     /* socials m */
     /********************************************************/
 
+        #email a {
+            color: white;
+        }
+
+        #email a:hover {
+            color: whitesmoke;
+            text-decoration: underline;
+            text-decoration-color: red;
+            text-decoration-style: wavy;
+            display: block;
+        }
+
         #socials img {
             width: 20%;
             height: 4rem;
