@@ -92,11 +92,11 @@
             text-align: center
         }
 
-        #heads {
+        #heads, #nekka {
             margin:0;
         }
 
-        #heads img {
+        #heads img, #nekka img {
             width: 100%;
         }
 
