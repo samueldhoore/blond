@@ -10,7 +10,7 @@
         position: relative;
     }
 
-    .topnav .toplinks {
+    .topnav #myLinks {
         display: none;
     }
 
