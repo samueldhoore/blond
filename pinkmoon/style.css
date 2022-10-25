@@ -182,9 +182,18 @@
     /********************************************************/
     /* socials m */
     /********************************************************/
-
+    
+        #socials {
+            margin-top: 0;
+        }
+        
         #email a {
             color: white;
+            text-decoration: none;
+            padding: 3rem;
+            width: 100%;
+            text-align: center;
+            display; block;
         }
 
         #email a:hover {
