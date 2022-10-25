@@ -202,6 +202,28 @@
             cursor: pointer;
         } 
     
+    /********************************************************/
+    /* socials m */
+    /********************************************************/
+
+        footer {
+            text-align: center;
+            padding: 1rem;
+        }
+        
+        footer a {
+            color: whitesmoke;
+            text-decoration: underline;
+            text-decoration-color: red;
+            text-decoration-style: wavy;
+            display: block;
+        }
+        
+        footer  a:hover {
+            text-decoration: line-through;
+            text-decoration-color: red;
+            text-decoration-thickness: 5px;
+        }
 }
 
 @media only screen and (min-width:769px){
