@@ -32,6 +32,10 @@
         display: none;
     }
 
+    #myLinks {
+        padding: 0rem 2rem;
+    }
+
     .topnav a {
         color: white;
         padding:1.5rem;
