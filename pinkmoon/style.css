@@ -1,3 +1,4 @@
+@media only screen and (max-width:769px){
 /* MOBILE VERSION */
 /********************************************************/
     /* Hamburger */
@@ -38,3 +39,10 @@
         background-color: pink;
         color: black;
     }
+
+}
+
+@media only screen and (min-width:769px){
+/* DESKTOP VERSION */
+/********************************************************/
+}
