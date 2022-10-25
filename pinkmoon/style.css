@@ -11,6 +11,8 @@
         body {
             margin: 0;
             font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            background-color: black;
+            color: white;
         }
 
         article {
@@ -116,6 +118,59 @@
             width: 100%;
             height: 15rem;
         }
+    
+    /********************************************************/
+    /* concerts m */
+    /********************************************************/
+    
+        #concerts h1 {
+            font-size: 3rem;
+            text-transform: uppercase;
+            letter-spacing: 1rem;
+        }
+        
+        #concerts {
+            text-align: center;
+        }
+        
+        #concerts table {
+            width: 100%;
+        } 
+        
+        #concerts td a{
+            display: block;
+            text-decoration: none;
+            color: white;
+            padding: 3rem 0rem;
+        }
+        
+        #concerts .date {
+            font-size: 1.3rem;
+        
+        }
+        
+        #concerts .location {
+            font-size: 1.5rem;
+            font-weight: bold;
+            text-transform: uppercase;
+        }
+        
+        #concerts .price {
+            font-style: italic;
+        }
+        
+        #concerts tr:first-child td{
+            border: none;
+        }
+        
+        #concerts td {
+            border-top: dotted white 0.9rem;
+            
+        }
+
+    /********************************************************/
+    /* concerts m */
+    /********************************************************/
     
 }
 
