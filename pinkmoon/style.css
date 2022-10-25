@@ -32,8 +32,8 @@
         display: none;
     }
 
-    #myLinks {
-        padding: 0rem 2rem;
+    #myLinks a {
+        padding: 1rem 2rem;
     }
 
     .topnav a {
