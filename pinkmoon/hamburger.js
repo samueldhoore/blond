@@ -6,3 +6,9 @@ function myFunction() {
     x.style.display = "block";
   }
 } 
+
+function handleClick(){
+    
+  ("#myLinks").toggle(); 
+   
+}
