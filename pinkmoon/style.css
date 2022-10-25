@@ -181,6 +181,10 @@
             justify-content: space-around;
             display: flex;
         }
+
+        #facebook, #spotify, #instagram{
+            cursor: pointer;
+        } 
     
 }
 
