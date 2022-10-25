@@ -5,7 +5,7 @@
     /********************************************************/
     
         html {
-            scroll-padding-top: 40px; /* sticky nav won't hide stuff */
+            scroll-padding-top: 7rem; /* sticky nav won't hide stuff */
         }
 
         body {
