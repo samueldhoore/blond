@@ -130,6 +130,7 @@
         
         #nieuwesingle iframe {
             width: 100%;
+            height: 15rem;
         }
     
     /********************************************************/
@@ -188,7 +189,7 @@
 
         #socials img {
             width: 20%;
-            height: auto;
+            height: 4rem;
         
         }
         
