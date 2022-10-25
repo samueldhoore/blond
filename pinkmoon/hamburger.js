@@ -1,5 +1,5 @@
 function hamburgerFunction() {
-  var x = document.getElementByClass("toplinks");
+  var x = document.getElementById("toplinks");
   if (x.style.display === "block") {
     x.style.display = "none";
   } else {
