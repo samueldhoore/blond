@@ -9,6 +9,6 @@ function myFunction() {
 
 function handleClick(){
     
-  ("#myLinks").toggle(); 
+  $s("#myLinks").toggle(); 
    
 }
